@@ -1,0 +1,7 @@
+Rio de Janeiro;25.5
+São Paulo;18.7
+Noruega;-7.5
+Rio de Janeiro;31.2
+São Paulo;19.8
+Rio de Janeiro;21.5
+São Paulo;15.7
