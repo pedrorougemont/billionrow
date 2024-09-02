@@ -1,0 +1,2 @@
+docker build -t python-app .
+docker run -it --rm --name my-running-app -v C:\*REDACTED*\billionrow:/usr/src/app python-app
